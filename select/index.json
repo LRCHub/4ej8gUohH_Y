@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Tokyo Bug Night",
+  "base_artist": "電音部、Moe Shop、犬吠埼紫杏 (CV: 長谷川玲奈)",
+  "createdAt": "2026-03-27T00:55:15.431345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tokyo Bug Night",
+      "artist": "電音部 feat. Moe Shop & 犬吠埼紫杏 (CV: 長谷川玲奈)",
+      "has_synced": false,
+      "path": "select/01_Tokyo_Bug_Night_電音部_feat._Moe_Shop_&_犬吠埼紫杏_(CV__長谷川玲奈).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tokyo Bug Night (feat. Moe Shop)",
+      "artist": "電音部",
+      "has_synced": true,
+      "path": "select/02_Tokyo_Bug_Night_(feat._Moe_Shop)_電音部.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tokyo Bug Night",
+      "artist": "電音部",
+      "has_synced": true,
+      "path": "select/03_Tokyo_Bug_Night_電音部.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tokyo Bug Night",
+      "artist": "Moe Shop",
+      "has_synced": true,
+      "path": "select/04_Tokyo_Bug_Night_Moe_Shop.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tokyo Bug Night (feat. Moe Shop)",
+      "artist": "電音部 & Moe Shop",
+      "has_synced": true,
+      "path": "select/05_Tokyo_Bug_Night_(feat._Moe_Shop)_電音部_&_Moe_Shop.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tokyo Bug Night (feat. Moe Shop)[Instrumental]",
+      "artist": "電音部 & Moe Shop",
+      "has_synced": true,
+      "path": "select/06_Tokyo_Bug_Night_(feat._Moe_Shop)[Instrumental]_電音部_&_Moe_Shop.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tokyo Bug Night",
+      "artist": "電音部 (神宮前参道學園), 犬吠埼紫杏(CV:長谷川玲奈)",
+      "has_synced": true,
+      "path": "select/07_Tokyo_Bug_Night_電音部_(神宮前参道學園),_犬吠埼紫杏(CV_長谷川玲奈).lrc"
+    }
+  ]
+}
